@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnan006" alt="afnan006" /></a> </p>
 
+[![An image of @afnan006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/afnan006)](https://holopin.io/@afnan006)
+
 - 🔭 I’m currently working on [MINE.AI](https://github.com/afnan006/Mine.AI)
 
 - 🌱 I’m currently learning **flask**
