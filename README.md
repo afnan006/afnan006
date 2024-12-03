@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan Ahmed</h1>
 <h3 align="center">A passionate Full Stack Python Web Developer from India</h3>
+<h3 align="center">I Design Code, I Code Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan006&label=Profile%20views&color=0e75b6&style=flat" alt="afnan006" /> </p>
 
@@ -7,13 +8,13 @@
 
 [![An image of @afnan006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/afnan006)](https://holopin.io/@afnan006)
 
-- 🔭 I’m currently working on [MINE.AI](https://github.com/afnan006/Mine.AI)
+- 🔭 I’m currently working on SpendSmart
 
 - 🌱 I’m currently learning **flask**
 
 - 👯 I’m looking to collaborate on **HacktoberFest**
 
-- 💬 Ask me about **html css and prompting**
+- 💬 Ask me about **API's, Django, Python and React**
 
 - 📫 How to reach me **afnan006cs@gmail.com**
 
