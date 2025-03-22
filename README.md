@@ -1,19 +1,14 @@
 # 👋 Hey, I'm Afnan!
-## Aspiring AI Backend Engineer | AI/ML Enthusiast | Cloud for AI
+### Aspiring AI Backend Engineer | AI/ML Enthusiast | Cloud for AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afnan006&label=Profile%20Views&color=red&style=flat)
 
----
-
 ## 🚀 About Me
-
 - 🛠 **I design code, I code design.**
 - 🔭 Currently working on **my portfolio** and training an AI called **JINO.AI** (with no context loss motive).
 - 🌱 Learning **AWS AI Practitioner, SageMaker, Python for AI/ML, Prompt Engineering, React, and PostgreSQL.**
 - 🎯 2025 Goal: Collaborate in **Hacktoberfest 2025.**
 - 📌 **Timezone:** Asia/Kolkata (Active in Evenings & Nights)
-
----
 
 ## 📡 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnan006)
@@ -22,8 +17,12 @@
 
 ---
 
-## 💻 Tech Stack
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afnan006&theme=onedark)
 
+---
+
+## 💻 Tech Stack
 ### 🚀 Programming & Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -65,7 +64,12 @@
 ---
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=afnan006&theme=github-dark)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan006&theme=dracula)
+
+---
+
+## 🎖 Holopin Badges
+[![Holopin Badges](https://holopin.me/afnan006)](https://holopin.io/@afnan006)
 
 ---
 
