@@ -1,24 +1,32 @@
-# 🚀 Afnan | AI Backend Engineer | ML Enthusiast
+# 👋 Hey, I'm Afnan!
+### Aspiring AI Backend Engineer | AI/ML Enthusiast | Cloud for AI
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afnan006&theme=algolia&no-bg=true&no-frame=true&margin-w=15)
+![Profile Views](https://komarev.com/ghpvc/?username=afnan006&label=Profile%20Views&color=red&style=flat)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afnan006&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
+
+---
 
 ## 🎖️ Holopin Badges
 [![Holopin Badges](https://holopin.me/afnan006)](https://holopin.io/@afnan006)
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 - 🛠 **I design code, I code design.**
 - 🔭 Currently working on **my portfolio** and training an AI called **JINO.AI** (with no context loss motive).
 - 🌱 Learning **AWS AI Practitioner, SageMaker, Python for AI/ML, Prompt Engineering, React, and PostgreSQL.**
 - 🎯 2025 Goal: Collaborate in **Hacktoberfest 2025.**
-- 📧 Email: **[afnan006cs@gmail.com](mailto:afnan006cs@gmail.com)**
-- 🌐 Portfolio: **[afnan006-portfolio.netlify.app](https://afnan006-portfolio.netlify.app/)**
-- 🕒 **Timezone:** Asia/Kolkata (Active in Evenings & Nights)
+- 📌 **Timezone:** Asia/Kolkata (Active in Evenings & Nights)
+- 📧 Email: [afnan006cs@gmail.com](mailto:afnan006cs@gmail.com)
+- 🌍 Portfolio: [Afnan's Portfolio](https://afnan006-portfolio.netlify.app/)
 
 ---
 
-## 🌐 Connect with Me
+## 📡 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnan006)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kaun_Afnan)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kaun_Afnan)
@@ -46,27 +54,33 @@
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🛠 Tools & Environment
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
-![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnan006&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan006&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=afnan006&theme=tokyonight)
+![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnan006&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan006&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=afnan006&theme=radical)
 
 ---
 
-## 📡 WakaTime Coding Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Afnan006&layout=compact&theme=tokyonight)
+## 🚀 WakaTime Coding Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Afnan006&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan006&theme=dracula)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan006&theme=github-dark&hide_border=true)
 
 ---
 
 ## 📜 Random Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 🚀 **Passionate about building AI-powered solutions & scalable backend systems!** Let's connect and create something amazing! 🚀
