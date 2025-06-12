@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Afnan!
-### AI Backend Engineer | Aspiring AI System Architect | Cloud for AI
+### AI Engineer | Aspiring AI System Architect | Cloud for AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afnan006&label=Profile%20Views&color=red&style=flat)
 
