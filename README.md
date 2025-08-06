@@ -72,6 +72,9 @@
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Afnan006&layout=compact&theme=radical)
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 ## 🔥 GitHub Contribution Graph
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan006&theme=github-dark&hide_border=true)
