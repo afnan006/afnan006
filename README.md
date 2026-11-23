@@ -1,163 +1,87 @@
-# 👋 Hey, I'm Afnan!
-### AI Engineer | Aspiring AI System Architect | Cloud for AI
+<h1 align="center">kaun afnan? 👀</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=afnan006&label=Profile%20Views&color=red&style=flat)
+<p align="center">
+  <b>Founding AI Engineer @ FrontStore</b><br/>
+  i build AI shopping agents that actually sell, and the boring infra that keeps them honest.
+</p>
 
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afnan006&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
-
----
-
-## 🎖️ Holopin Badges
-[![Holopin Badges](https://holopin.me/afnan006)](https://holopin.io/@afnan006)
-
----
-
-## 🚀 About Me
-- 🛠 **I design code, I code design.**
-- 🔭 Currently working on **my portfolio** and training an AI called **JINO.AI** (with no context loss motive).
-- 🌱 Learning **AWS AI Practitioner, SageMaker, Python for AI/ML, Prompt Engineering, React, and PostgreSQL.**
-- 🎯 2025 Goal: Collaborate in **Hacktoberfest 2025.**
-- 📌 **Timezone:** Asia/Kolkata (Active in Evenings & Nights)
-- 📧 Email: [afnan006cs@gmail.com](mailto:afnan006cs@gmail.com)
-- 🌍 Portfolio: [Afnan's Portfolio](https://afnan006-portfolio.netlify.app/)
+<p align="center">
+  <a href="https://linkedin.com/in/afnan006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Kaun_Afnan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/Kaun_Afnan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://afnan006-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📡 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnan006)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kaun_Afnan)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kaun_Afnan)
+```python
+class Afnan:
+    role       = "Founding AI Engineer @ FrontStore"
+    based_in   = "Bengaluru, IN"
+    ships      = ["AI shopping agents", "search & recs", "LLM pipelines that don't fall over"]
+    rule       = "fix the root, not the symptom"
+    right_now  = "teaching AI to make sense of messy product catalogs"
+    side_quest = "infographics nobody asked for, side projects at 2am"
 
----
+    def debug(self, ai_said_something_dumb):
+        return "it's never the model first. check search, data, context."
+```
 
-## 💻 Tech Stack
-### 🚀 Programming & Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ what i'm on rn
 
-### 🌐 Frontend & UI
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🤖 **agents in production:** product search, recommendations, conversation, add-to-cart
+- 🧭 **catalog intelligence:** messy catalog in, clean map out, zero per-brand code
+- ⚡ **making it lean:** faster answers, fewer tokens, same model
+- 📝 **writing it down:** notes from production on [X](https://x.com/Kaun_Afnan)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🧪 side projects i actually built
 
-### 🛠 Tools & Environment
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| project | what it is |
+|---|---|
+| 🧠 [**JINO.AI**](https://github.com/afnan006/JINO.AI) | a chatbot that remembers you without shipping your history every turn. 3 models, local-first memory |
+| 🐍 [**PyRen**](https://github.com/afnan006/PyRen-The-AI-Tutor) | AI Python tutor for kids, runs real Python in the browser |
+| 💸 [**LogUp**](https://github.com/afnan006/LogUp-) | personal finance app that tells you where your money actually went |
+| 📜 [**0xCertify**](https://github.com/afnan006/0xCertify-CertGenVal) | certificates you can verify on-chain |
 
----
+## 🧰 stack
 
-## 📊 GitHub Stats
-![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnan006&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan006&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=afnan006&theme=radical)
+**AI** &nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
----
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-## 🚀 WakaTime Coding Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Afnan006&layout=compact&theme=radical)
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Cloud** &nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+## 🏆 receipts
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=afnan006&theme=onedark&no-frame=true&margin-w=12&margin-h=12&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afnan006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan006&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=afnan006&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@afnan006"><img src="https://holopin.me/afnan006" alt="Holopin badges"/></a>
+</p>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2039%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 154.9 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                54 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌆 Daytime                120 commits         ███████████░░░░░░░░░░░░░░   44.94 % 
-🌃 Evening                59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌙 Night                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   89 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Tuesday                  38 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-
- Last Updated on 31/10/2026 21:45:59 UTC
 <!--END_SECTION:waka-->
----
-
-## 🔥 GitHub Contribution Graph
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan006&theme=github-dark&hide_border=true)
 
 ---
 
-## 📜 Random Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-🚀 **Passionate about building AI-powered solutions & scalable backend systems!** Let's connect and create something amazing! 🚀
+<p align="center"><i>most of my best work lives in private repos. the public stuff is where i break things for fun.</i></p>
